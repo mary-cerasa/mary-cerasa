@@ -1,10 +1,12 @@
 Hi there, I’m Mary.. 💞️
-## A full-stack engineer who wants to build meaningful web experiences via clean and accessible code.  
+## Former technical writer turned full-stack engineer and freelance web dev, who wants to build meaningful web experiences via clean and accessible code.  
 I’m passionate about web accessibility and inclusive design.
 <br>
 I’m currently building apps and websites that can assist people with disabilities, both visible and hidden.
 <br>
-
+I believe in making careers in tech more attainable and accessible for everyone.
+<br> 
+ 
 ## My Portfolio: 
 marycerasa.com
 <br>
@@ -19,10 +21,18 @@ marycerasa.com
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NODE-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-SCSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-YARN-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-EPRESS-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
+
 
 ## 🚀 Currently Learning:
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 <br>
 
 ## 📌 Pinned Repositories:
