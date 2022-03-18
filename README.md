@@ -8,11 +8,11 @@ I believe in making careers in tech more attainable and accessible for everyone.
 <br> 
  
 ## My Portfolio: 
-marycerasa.com
+https://marycerasa.com
 <br>
 
 ## 📫 Socials: 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mary_cerasa)4
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mary_cerasa)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/marycerasa/)
 <br>
 
