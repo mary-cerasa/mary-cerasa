@@ -31,7 +31,9 @@ https://marycerasa.com
 ![](https://img.shields.io/badge/Tools-YARN-informational?style=flat&logo=yarn&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-EXPRESS-informational?style=flat&logo=express&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Repo-GitHub-informational?style=flat&logo=github&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Editor-SublimeText-informational?style=flat&logo=sublimetext&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=4AB197)
 
 
 ## 🚀 Currently Learning:
