@@ -1,21 +1,27 @@
-Hi there, I’m Mary.. 💞️
-## Former technical writer turned full-stack engineer and freelance web dev, who wants to build meaningful web experiences via clean and accessible code.  
-I’m passionate about web accessibility and inclusive design.
+Hi there, I’m ___Mary___! :revolving_hearts:
+## Former technical writer :black_nib: turned full-stack engineer and freelance web dev :computer: , who wants to build meaningful web experiences via clean and accessible code :blush:
+__*About Me:*__
+I've lived and worked in 5 countries :earth_americas:
 <br>
-I’m currently building apps and websites that can assist people with disabilities, both visible and hidden.
+I’m passionate about web accessibility and inclusive design
 <br>
-I believe in making careers in tech more attainable and accessible for everyone.
+I’m currently building apps and websites that can assist people with disabilities, both visible and hidden :wheelchair:
+<br>
+I believe in making careers in tech more attainable and accessible for everyone
 <br> 
-In my free time you can find me learning to play golf, writing articles on web accessibility and reading! 
+__*Hobbies:*__ In my free time you can find me learning to play golf :golf: (my handicap is a work in progress), writing articles on web accessibility :pencil2: and reading :books:
+<br>
+__*Employment:*__ I am currently freelancing while searching for a long term position :briefcase:
  
-## My Portfolio: 
+## :notebook: My Portfolio: 
 https://marycerasa.com
 <br>
 
-## 📫 Socials: 
+## 📫 Socials (Get in Touch!): 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mary_cerasa)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/marycerasa/)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-Profile-informational?style=flat&logo=hashnode&logoColor=white&color=1CA2F1)](https://hashnode.com/@mserahsa)
+[![Polywork Badge](https://img.shields.io/badge/Polywork-Profile-informational?style=flat&logo=polywork&logoColor=white&color=1CA2F1)](https://www.polywork.com/mserahsa)
 <br>
 
 ## 🔨 Tech Stack:
